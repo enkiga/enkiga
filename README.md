@@ -1,7 +1,7 @@
-# Hi there 👋
+ **Hi there 👋**
 
 
-## 👨 About Me:
+**👨 About Me:**
 
 My name is **Enoch Garoli**, and I'm a highly motivated and enthusiastic individual from Nairobi, Kenya. I have a strong background in IT and computer science, and I'm passionate about applying my skills to help organizations achieve their goals. My academic background in Cyber-security, Data Science, and Computer Science has equipped me with practical skills in troubleshooting, system maintenance, networking, and data analysis.
 
