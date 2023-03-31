@@ -18,7 +18,7 @@ I am pursuing a Bachelor of Science degree in Computer Science. The program has 
 _" I am always looking for new challenges and opportunities to grow my skills and knowledge in the field of computer science."_
 
 If you're interested in learning more about my work or have any questions, you can reach me through at:
-- LinkedIn: [Enoch Garoli](https://www.linkedin.com/in/enoch-garoli-21b780211/) 
+- LinkedIn: [Enoch Garoli](https://www.linkedin.com/in/enoch-k-garoli-21b780211/) 
 - Gmail: [eenkiga@gmail.com](mailto:eenkiga@gmail.com)
 
 
