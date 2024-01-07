@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, React + Typescript,**
 
-- 💬 Ask me about **react, flutter, springboot**
+- 💬 Ask me about **react, react-native, flutter, laravel, node.js**
 
 - 📫 How to reach me **eenkiga@gmail.com**
 
