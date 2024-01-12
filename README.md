@@ -1,4 +1,4 @@
-![Card 2](https://github.com/enkiga/enkiga/assets/85756781/47e50995-6fc6-4676-874d-e23341309a79)
+![MainCard](https://github.com/enkiga/enkiga/assets/85756781/950bf5aa-0289-4e0d-8b3f-4ac57e710b30)
 <h1 align="center">Hi 👋, I'm Enoch K Garoli</h1>
 <h3 align="center">I am a techie based in Nairobi, Kenya</h3>
 
