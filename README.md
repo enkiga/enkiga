@@ -1,3 +1,4 @@
+<h1><img src="![Card 2](https://github.com/enkiga/enkiga/assets/85756781/fbcae613-0d01-4d02-86d0-19bd4547779f)"/> </h1>
 <h1 align="center">Hi 👋, I'm Enoch K Garoli</h1>
 <h3 align="center">I am a techie based in Nairobi, Kenya</h3>
 
