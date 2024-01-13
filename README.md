@@ -1,5 +1,5 @@
 ![MainCard](https://github.com/enkiga/enkiga/assets/85756781/950bf5aa-0289-4e0d-8b3f-4ac57e710b30)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=enkiga.enkiga" alt="visitors"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=enkiga.enkiga" alt="profile views"/>
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=50&duration=5000&lines=A+techie+based+in+Nairobi+KENYA;" />
 </h3>
