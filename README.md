@@ -44,9 +44,9 @@ alt="Gmail">
 
 <h2 align="left">GitHub Stats 📈:</h2>
 <div align="left">
-<img  HEIGHT="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=enkiga&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="enkiga" />
+<img  HEIGHT="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=enkiga&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="enkiga" />
 
-<img  HEIGHT="200"  src="https://github-readme-streak-stats.herokuapp.com/?user=enkiga&theme=react&border_radius=10" alt="streak stats" />
+<img  HEIGHT="150"  src="https://github-readme-streak-stats.herokuapp.com/?user=enkiga&theme=react&border_radius=10" alt="streak stats" />
 </div>
 <br/>
 
