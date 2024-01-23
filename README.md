@@ -7,7 +7,7 @@
 <h2 align="left">Hi there again 👋:</h2>
 
 - 🌱 I’m currently learning the **MERN** tech stack
-- 🧪 I’m currently working on a **Nike UI Clone**
+- 🧪 I’m currently working on a **Job Finder App**
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact about me, **I am 6'3 but can't dunk**
 
