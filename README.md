@@ -6,9 +6,8 @@
 ---
 <h2 align="left">Hi there again 👋:</h2>
 
-- 🌱 I’m currently learning the **MERN** tech stack
-- 🧪 I’m currently working on a **E-Commerce Website**
-- 👯 I’m looking to collaborate on projects
+- 🧪 I’m currently working on a **Classified Project**
+- 👯 I’m also looking to collaborate on projects
 - ⚡ Fun fact about me, **I am 6'3 but can't dunk**
 
 <br/>
@@ -35,8 +34,7 @@ alt="Gmail">
 
 <h2 align="left">Languages and Tools 🛠️:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,react,typescript,tailwind,laravel,nextjs"  alt=""/>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,androidstudio"  alt=""/><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,typescript,tailwind,laravel,nextjs,flutter"alt=""/>
 </div>
 <br/>
 
@@ -54,4 +52,4 @@ alt="Gmail">
 
 <h2 align="left">Thank You for visiting my profile🤟</h2>
 
-<p align="left">Feel free to check out some of my public repositories.</p>
+<p align="left">You're free to check out some of my public repositories.</p>
