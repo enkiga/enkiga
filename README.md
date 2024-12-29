@@ -4,9 +4,11 @@
 
 ## My GitHub Stats 📈
 
-![MostUsedLanguage](https://github-readme-stats.vercel.app/api/top-langs?username=enkiga&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+<div align="left">
+<img  HEIGHT="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=enkiga&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="enkiga" />
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=enkiga&theme=react&border_radius=10)
+<img  HEIGHT="150"  src="https://github-readme-streak-stats.herokuapp.com/?user=enkiga&theme=react&border_radius=10" alt="streak stats" />
+</div>
 
 ---
 
