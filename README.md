@@ -1,6 +1,6 @@
-# Hello There 👋
+# Greetings, fellow humans!👋
 
-**I'm Enoch Garoli**, a driven software engineer with a proven ability to design, develop, and deploy high-quality web and mobile applications. I'm passionate about building user-centric solutions that solve real-world problems and enhance user experiences.
+**I'm Enoch Garoli**, a software engineer who occasionally writes code that actually works *(most of the time🙃)*. I'm passionate about building user-friendly applications that don't spontaneously combust, and I have a knack for turning caffeine into code ☕. Feel free to explore my GitHub and witness the magic (or the occasional bug👻).
 
 ## My GitHub Stats 📈
 
@@ -9,7 +9,3 @@
 
 <img  HEIGHT="150"  src="https://github-readme-streak-stats.herokuapp.com/?user=enkiga&theme=react&border_radius=10" alt="streak stats" />
 </div>
-
----
-
-Thank You for visiting my profile🤟 & Feel free to check out some of my repositories!
