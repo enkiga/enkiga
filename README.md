@@ -6,7 +6,7 @@
 
 ![MostUsedLanguage](https://github-readme-stats.vercel.app/api/top-langs?username=enkiga&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 
-![STreaks](https://github-readme-streak-stats.herokuapp.com/?user=enkiga&theme=react&border_radius=10" alt="streak stats)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=enkiga&theme=react&border_radius=10)
 
 ---
 
