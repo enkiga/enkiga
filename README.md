@@ -1,6 +1,6 @@
 # Greetings, fellow humans!👋
 
-**I'm Enoch Garoli**, a software engineer who occasionally writes code that actually works *(most of the time🙃)*. I'm passionate about building user-friendly applications that don't spontaneously combust, and I have a knack for turning caffeine into code ☕. Feel free to explore my GitHub and witness the magic (or the occasional bug👻).
+**I'm Enoch Garoli**, a software engineer who brings software to life, one perfectly placed semicolon at a time. 🙃 I'm passionate about creating user-friendly applications that don't spontaneously combust, and I have a knack for transforming caffeine into code. ☕  Feel free to explore my GitHub and witness the magic 🧙🏾‍♂️🪄.
 
 ## My GitHub Stats 📈
 
